@@ -6,6 +6,7 @@
 👉 **[Click here to run the app](https://data-science-assignment-7-zz3kcudf3nxxrgbk2tak9d.streamlit.app/)**
 
 ## Files in this folder
+- `Assignment_7_Tharun.ipynb` - Training file of Logistic Regression Model
 - `Tharun_Titanic_app.py` – Streamlit app
 - `log19.pkl` – Trained Logistic Regression model
 - `requirements.txt` – Dependencies
